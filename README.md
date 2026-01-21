@@ -148,4 +148,3 @@ M.Sc. Statistics, LMU Munich
 
 GitHub: github.com/Jinheekimmi
 M.Sc. Statistics, LMU Munich
-GitHub: [your-github-profile]
