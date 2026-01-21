@@ -147,4 +147,4 @@ Marketing Scientist / Data Scientist
 M.Sc. Statistics, LMU Munich
 
 GitHub: github.com/Jinheekimmi
-M.Sc. Statistics, LMU Munich
+
