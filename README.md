@@ -3,6 +3,7 @@
 1. Project Overview
 
 -This project demonstrates an end-to-end real-world evidence (RWE) survival analysis using the publicly available MIMIC-IV electronic health records (EHR) dataset.
+
 -The objective is to analyze short-term mortality risk among ICU patients and identify clinically relevant risk factors using classical survival analysis techniques.
 -The project is designed to reflect real-world workflows in pharmaceutical and clinical data science, including cohort construction, censoring, and interpretable modeling.
 
